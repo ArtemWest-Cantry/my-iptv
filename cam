@@ -246,8 +246,6 @@ https://fl.tvintel.info:8443/mix-riviera-sport-alleya/index.m3u8
 https://fl.tvintel.info:8443/mix-Sanatoriy_Oktyabrskiy/index.m3u8
 #EXTINF:-1 group-title="Россия 🇷🇺",Сочи - Санаторий Электроника
 https://fl.tvintel.info:8443/mix-Electronic-ptz/index.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Сочи - Ривьера Конный театр
-https://fl.tvintel.info:8443/mix-riviera_konn_teatr/index.m3u8
 #EXTINF:-1 group-title="Россия 🇷🇺",Сочи - Ривьера Теннисные корты
 https://fl.tvintel.info:8443/mix-riviera_tennis/index.m3u8
 #EXTINF:-1 group-title="Россия 🇷🇺",Сочи - Рэдиссон Парадайз
@@ -634,51 +632,51 @@ http://cams.pamporovo.me:1935/live/camera2.stream_720p/chunklist.m3u8
 http://cams.pamporovo.me:1935/live/camera1.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇬",Болгария 8
 http://cams.pamporovo.me:1935/live/camera3.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Bedford
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Bedford
 https://paxman.railcam.co.uk/Bedford1_25194/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Buckfastleigh
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Buckfastleigh
 http://maybach.railcam.co.uk/Buckfastleigh_68389/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Corfe Station
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Corfe Station
 http://maybach.railcam.co.uk:80/Corfe_14435/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Cramlington
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Cramlington
 https://maybach.railcam.co.uk/Cramlington_54382/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Crewe
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Crewe
 https://maybach.railcam.co.uk/Crewe2_16754/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Flitwick
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Flitwick
 https://maybach.railcam.co.uk/Flitwick_99123/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Glyndyfrdwy
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Glyndyfrdwy
 http://maybach.railcam.co.uk/Glyndyfrdwy_389573/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Groom bridge
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Groom bridge
 http://maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Hebden
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Hebden
 https://maybach.railcam.co.uk/Hebden_41043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Kidderminster 2
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Kidderminster 2
 http://89.16.164.68:80/SVR-Kidderminster-C2_094871/index.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Orton Mere
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Orton Mere
 http://maybach.railcam.co.uk/NVR-Orton-Mere_39273/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Princes
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Princes
 https://paxman.railcam.co.uk/Princes-Risborough_95234/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Ribblehead
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Ribblehead
 https://paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Sagress Holidays
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Sagress Holidays
 http://camsecure.co/HLS/sagressholidays.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Shrewsbury
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Shrewsbury
 https://paxman.railcam.co.uk/Shrewsbury_10933/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Swanage Station
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Swanage Station
 http://maybach.railcam.co.uk:80/Swanage_43965/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Tormorden
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Tormorden
 https://maybach.railcam.co.uk/Todmorden_19065/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Torquay
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Torquay
 http://camsecure.co/HLS/boatq1.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Uphall
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Uphall
 https://maybach.railcam.co.uk/Uphall_96341/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Westward
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Westward
 http://camsecure.co/HLS/westho.m3u8
-#EXTINF:-1 group-title="Великобритания 🇬🇧",Фламинго
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Великобритания Фламинго
 http://stream.wildlifestreaming.io:1935/Marwell/marwell_flamingo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Венгрия 6
 https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Германия 🇩🇪",Binz 1
+#EXTINF:-1 group-title="Германия 🇩🇪",Германия Binz 1
 http://cam01.binz-kabel.de/cam1/960.m3u8
 #EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 6
 https://bang.snerpa.is/live/live/flateyri.stream/playlist.m3u8
@@ -692,47 +690,47 @@ http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u
 https://webvideo.mississauga.ca/StageWebcam/LiveStageWebcam.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Канада 🇨🇦",Canada 3
 https://webvideo.mississauga.ca/BalconyWebcam/LiveWebcam.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Нур-Султан - ТРЦ Хан Шатыр
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Нур-Султан - ТРЦ Хан Шатыр
 http://92.46.108.21:1934/rtplive/_definst_/camera1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Нур-Султан - ТРЦ Хан Шатыр 2
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Нур-Султан - ТРЦ Хан Шатыр 2
 http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шахтинск 1
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шахтинск 1
 http://45.13.18.225:8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шахтинск 2
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шахтинск 2
 http://45.13.18.225:8080/hls/41571/cb185e076efb16645f3b/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шахтинск 3
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шахтинск 3
 http://45.13.18.225:8080/hls/41567/83b147da59f31400ebbf/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шымбулак 1
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шымбулак 1
 https://ipcam.kz/cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шымбулак 2
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шымбулак 2
 https://ipcam.kz/cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шымбулак 4
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шымбулак 4
 https://ipcam.kz/cam5/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шымбулак 5
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шымбулак 5
 https://ipcam.kz/cam6/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Казахстан 🇰🇿",Шымбулак 6
+#EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан Шымбулак 6
 https://ipcam.kz/cam7/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Вильнюс
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва Вильнюс
 http://s1.dcdn.lt/live/vilnius.stream/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Вильнюс 3
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва Вильнюс 3
 http://s1.dcdn.lt/livecam/vl108.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Кафедральный собор
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва Кафедральный собор
 http://s1.dcdn.lt/livecam/vl147.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Клайпеда
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва Клайпеда
 https://s1.dcdn.lt/livecam/kl016.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Клайпеда 3
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва Клайпеда 3
 https://s1.dcdn.lt/livecam/kl011.stream/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Красный Олень
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва Красный Олень
 https://s1.dcdn.lt/livecam/si508.stream/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",Шилале
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва Шилале
 http://s1.dcdn.lt/livecam/sll50.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",,Литва - Вильнюс 3
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва - Вильнюс 3
 http://s1.dcdn.lt//live/smil:vilnius.smil/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",,Литва - Лепкальнис 1
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва - Лепкальнис 1
 http://s1.dcdn.lt//live/liepkalnis2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",,Литва - Лепкальнис 2
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва - Лепкальнис 2
 http://s1.dcdn.lt//live/liepkalnis3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Литва 🇱🇹",,Литва - Олени
+#EXTINF:-1 group-title="Литва 🇱🇹",Литва - Олени
 http://s1.dcdn.lt/livecam/si508.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",Нидерланды 3
 http://streaming.avex.nl:1935/live/valkbuiten2/playlist.m3u8
@@ -746,7 +744,7 @@ https://5d881567b7568.streamlock.net/live/Kerkuil1Buiten.stream/playlist.m3u8
 https://5d881567b7568.streamlock.net/live/Steenuil2Binnen.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",Нидерланды 17
 https://5d881567b7568.streamlock.net/live/Torenvalk3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",23
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",Нидерланды 23
 https://5d881567b7568.streamlock.net/live/Torenvalk2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",Нидерланды 26
 https://jwwcam2.movingmedia.eu/hls/live.stream.m3u8
@@ -790,33 +788,33 @@ https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek2.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",Польша Аэропорт 11
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 1
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 1
 https://streamer.devnet.rs/hls/trgrepublike.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 12
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 12
 https://streamer.devnet.rs/hls/bogoslovija.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 13
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 13
 https://streamer.devnet.rs/hls/opstinanbg.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 14
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 14
 https://streamer.devnet.rs/hls/genex.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 15
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 15
 https://streamer.devnet.rs/hls/zeleznicka.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 16
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 16
 https://streamer.devnet.rs/hls/despotastefana.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 2
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 2
 https://streamer.devnet.rs/hls/gazela.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 3
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 3
 https://streamer.devnet.rs/hls/pancevac.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 4
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 4
 https://streamer.devnet.rs/hls/ada.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 5
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 5
 https://streamer.devnet.rs/hls/pupina.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 6
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 6
 https://streamer.devnet.rs/hls/autokomanda.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 7
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 7
 https://streamer.devnet.rs/hls/gagarina.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 8
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 8
 https://streamer.devnet.rs/hls/slavija.m3u8
-#EXTINF:-1 group-title="Сербия 🇷🇸",Белград 9
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия Белград 9
 https://streamer.devnet.rs/hls/trgnikole.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",Словакия 1
 http://stream.kukaj.se/stream/1/video.m3u8
@@ -850,8 +848,6 @@ https://kukaj.profi-net.sk/livetrans/KUVIK1.stream_aac/chunklist.m3u8
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",Словакия 20
 http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
-#EXTINF:-1 group-title="Словакия 🇸🇰",Словакия 21
-http://stream.kukaj.se/stream/3/video.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",Словакия 22
 http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",Словакия 24
@@ -868,19 +864,19 @@ http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
 http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
 #EXTINF:-1 group-title="Словакия 🇸🇰",Словакия 30
 http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Myrtle Beach Cam
+#EXTINF:-1 group-title="США 🇺🇸",США Myrtle Beach Cam
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-beach.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Myrtle Beach Cam 3
+#EXTINF:-1 group-title="США 🇺🇸",США Myrtle Beach Cam 3
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Southport
+#EXTINF:-1 group-title="США 🇺🇸",США Southport
 http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Warm Winds
+#EXTINF:-1 group-title="США 🇺🇸",США Warm Winds
 http://5c864aa99ee04.streamlock.net:1935/surfcam/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Кормушка
+#EXTINF:-1 group-title="США 🇺🇸",США Кормушка
 http://live.idnes.cz/slow/krmitkousa/playlist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Пингвины 2
+#EXTINF:-1 group-title="США 🇺🇸",США Пингвины 2
 https://5ad79df289937.streamlock.net/Aquarium-WebCams/Penguins.stream/chunklist.m3u8
-#EXTINF:-1 group-title="США 🇺🇸",Рифы
+#EXTINF:-1 group-title="США 🇺🇸",США Рифы
 https://5ad79df289937.streamlock.net/Aquarium-WebCams/Secret-Reef.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",Турция 13
 http://212.156.98.150:1936/Kamera/Stadyum.stream/chunklist.m3u8
@@ -960,7 +956,7 @@ https://stream.vedge.infomaniak.com/livecast/webcam01luganoch.stream/playlist.m3
 https://stream.vedge.infomaniak.com/livecast/webcam02luganoch.stream/playlist.m3u8
 #EXTINF:-1 group-title="Швейцария 🇨🇭",Швейцария 9
 https://stream.vedge.infomaniak.com/livecast/webcam04luganoch.stream/playlist.m3u8
-#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Талин (4K)
+#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Эстония Талин (4K)
 http://83.166.53.184:8080/index.m3u8
-#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Талин 1
+#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Эстония Талин 1
 http://stream02.vikingsecurity.ee:1935/otsep11/cam9108/playlist.m3u8
