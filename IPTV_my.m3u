@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="★ Основные" ,01 • Первый канал
-http://tv.ttk.mx:9093
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="★ Основные" ,01 • Первый канал
+#EXTINF:-1 tvg-id="ch001" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="★ Основные" ,01 • Первый канал
 http://1.1usd.tv/ch001/mono.m3u8?token=1usdtv_mama_34394_1.v2_wbpNLws1oWZ_0MD0rV9DkstnAKOnfFv9whvLB7BFEuhIzuBW8CL8J-cjTVMgMr2CrXyVWvgrHWXU6Kx41RZ85l0D
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="★ Основные" ,02 • Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
