@@ -51,7 +51,7 @@ http://1.1usd.tv/ch069/mono.m3u8?token=1usdtv_mama_34394_1.v2_UGK9pXOu0uuG5akML9
 http://1.1usd.tv/ch067/mono.m3u8?token=1usdtv_mama_34394_1.v2_t0aOZW1htwhv3-aLroHOURrUKmHNMOw1NWjNv8UFNAVm66imzyHMF4zeWmAGJc_cNn4Lq1YXVeIdlQf6x5-J2-FXKQ
 #EXTINF:-1 group-title="Хобби и увлечения" ,Охота и рыбалка
 http://193.25.8.59:8000/ohota
-#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="Хобби и увлечения" ,Охотник и рыболов
+#EXTINF:-1 group-title="Хобби и увлечения" ,Охотник и рыболов
 http://1.1usd.tv/ch085/mono.m3u8?token=1usdtv_mama_34394_1.v2_9xlBXhpNkiT6Dupan5bRZ5dtNX-fd75slSspZI4KZylQK5_iFa9QZaIVIWc7NVlPv_2cjvHYerIdR0J80o2PMfQkCQ
 #EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://iptvx.one/picons/luxury-hd.png" group-title="Хобби и увлечения",Luxury HD
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
