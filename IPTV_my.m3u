@@ -2,7 +2,7 @@
 #PLAYLIST:IPTVru
 
 #EXTINF:-1 tvg-id="ch001" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="★ Основные" ,01 • Первый канал
-http://1.1usd.tv/ch001/mono.m3u8?token=1usdtv_mama_34394_1.v2_wbpNLws1oWZ_0MD0rV9DkstnAKOnfFv9whvLB7BFEuhIzuBW8CL8J-cjTVMgMr2CrXyVWvgrHWXU6Kx41RZ85l0D
+http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="★ Основные" ,02 • Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="★ Основные",03 • Матч ТВ
