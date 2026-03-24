@@ -40,7 +40,7 @@ https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="★ Основные" ,17 • Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="★ Основные" ,18 • Мир
-http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="★ Основные" ,19 • ТНТ
 http://tv.ttk.mx:9128
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="★ Основные" ,20 • Муз-ТВ
