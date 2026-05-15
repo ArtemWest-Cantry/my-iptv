@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
 #EXTINF:-1 tvg-id="ch001" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="★ Основные" ,01 • Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=jW5qRW3eSqmthC6SMRRWRg&e=2069500952&scheme=https
@@ -426,6 +428,20 @@ https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Спортивные",Старт Триумф HD
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://dmitry-tv.ddns.net/hls/CH_DISCOVERY_CHANNEL.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHIC.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC WILD
+http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:-1 group-title="Познавательные",HISTORY
+http://dmitry-tv.ddns.net/hls/CH_HISTORY.m3u8
+#EXTINF:-1 group-title="Познавательные",HISTORY 2
+http://dmitry-tv.ddns.net/hls/CH_HISTORY_2.m3u8
+#EXTINF:-1 group-title="Познавательные",В мире животных HD720
+http://dmitry-tv.ddns.net/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
+#EXTINF:-1 group-title="Познавательные",ПРИКЛЮЧЕНИЯ
+http://dmitry-tv.ddns.net/hls/CH_PRIKLYUCHENIYA.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные" ,Animal Planet HD
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://iptvx.one/picons/hgtv.png" group-title="Познавательные" ,HGTV HD
