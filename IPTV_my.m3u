@@ -48,7 +48,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=yJKepLFIXDdtkMAI2Wvi4w&e=2094945884&scheme=https
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="★ Основные" ,20 • Муз-ТВ
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+http://stream.mcquack.net/86/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения" ,Охота и рыбалка
 http://195.64.140.147:10039/39
 #EXTINF:-1 group-title="Хобби и увлечения" ,Охотник и рыболов
