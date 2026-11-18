@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="★ Основные",21 • Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ch001" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="★ Основные" ,01 • Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
