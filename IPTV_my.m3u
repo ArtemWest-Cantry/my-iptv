@@ -48,7 +48,7 @@ http://tv.ttk.mx:9128
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="★ Основные" ,20 • Муз-ТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения" ,Охота и рыбалка
-http://iptv.mega.net.ru:8888/Ohota_i_Ribalka/index.m3u8
+http://195.64.140.147:10039/39
 #EXTINF:-1 group-title="Хобби и увлечения" ,Охотник и рыболов
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Хобби и увлечения" ,Диалоги о рыбалке
