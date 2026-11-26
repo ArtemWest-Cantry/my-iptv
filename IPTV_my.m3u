@@ -8,8 +8,8 @@ https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
 #EXTVLCOPT:http-referrer=http://176.118.130.26:88/stalker_portal/c/index.html
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="★ Основные",03 • Матч ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=Qvph832YRWIfAnELr4TMpg&e=2094945936&scheme=https
+#EXTVLCOPT:http-referrer=http://176.118.130.26:88/stalker_portal/c/index.html
+https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="★ Основные" ,04 • НТВ
 #EXTVLCOPT:http-referrer=http://176.118.130.26:88/stalker_portal/c/index.html
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
