@@ -53,7 +53,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://176.118.130.26:88/stalker_portal/c/index.html
 https://flussonic.mkpnet.ru/tv-b77844e8f83e4ec3/video.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="★ Основные" ,20 • Муз-ТВ
-http://stream.mcquack.net/86/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=http://176.118.130.26:88/stalker_portal/c/index.html
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения" ,Охота и рыбалка
 http://195.64.140.147:10039/39
 #EXTINF:-1 group-title="Хобби и увлечения" ,Охотник и рыболов
